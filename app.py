@@ -105,4 +105,4 @@ if submitted:
         st.rerun()
 
 st.divider()
-st.caption("Математический кроссворд • 10 класс")
+st.caption("Математический кроссворд • 7 класс")
